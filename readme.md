@@ -24,12 +24,14 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Sydney UC - Microsoft Teams & Skype for Business](https://www.meetup.com/sydney-uc/) | AU/NSW | Last Weds of Feb, May, Aug & Nov | Sydney CBD |
 | [Sydney SharePoint User Group](https://www.meetup.com/en-AU/Sydney-SharePoint-User-Group/) | AU/NSW | 3rd Tuesday of every month | Microsoft Reactor |
 | [Sydney PowerApps and Flow User Group](https://www.meetup.com/en-AU/Sydney-PowerApps-Flow-UserGroup/) | AU/NSW | Monthly | Microsoft Reactor |
+|[Microsoft 365 Pro-Low-No-Code Developers Meetup](https://www.meetup.com/Microsoft-365-Pro-Low-No-Code-Developers-Meetup/) | AU/NSW | Monthly | Online |
 | [Sydney Microsoft 365 Modern Management Meetup](https://www.meetup.com/Sydney-CBD-Microsoft-Modern-Management-Meetup/) | AU/NSW | Monthly | Microsoft Reactor |
 | [Sydney Office 365 Meetup](https://www.meetup.com/en-AU/Sydney-Office-365-Meetup/) | AU/NSW | Monthly | Microsoft Reactor |
 | [Sydney Umbraco Meetup](https://www.meetup.com/Sydney-Umbraco-Meetup/) | AU/NSW | Bi-Monthly | Microsoft Reactor |
 | [Sydney .NET User Group](https://www.meetup.com/Sydney-NET-User-Group/) | AU/NSW | 3rd Wednesday of every month | [SSW Chapel](https://sswchapel.com.au/sydney/) |
 | [ANZ PowerShell and DevOps User Group](https://www.meetup.com/en-AU/ANZ-PowerShell-UserGroup/) | AU/NSW/Online | Intermittent | Microsoft Reactor/Online |
 | [Azure Sydney User Group](https://www.meetup.com/Azure-Sydney-User-Group/) | AU/NSW | 1st Wednesday of every month | Microsoft Reactor |
+| [Sydney Microsoft Business Applications Women](https://www.meetup.com/Sydney-MS-Business-Apps-Women-Meetup/)| AU/NSW/Online| 1st Thursday of every month|Microsoft Reactor/Online|
 | [Brisbane Microsoft 365 Meetup](https://www.365community.org/) | AU/QLD | Last Wednesday of every month  | Microsoft |
 | [Brisbane Infrastructure User Group](http://www.bigau.org/) | AU/QLD | Monthly | Microsoft |
 | [Brisbane PowerShell User Group](https://www.meetup.com/Brisbane-PowerShell-User-Group/) | AU/QLD | Monthly | Hudson Technology |
@@ -51,6 +53,7 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Melbourne Umbraco Meetup](https://www.meetup.com/Australian-Umbraco-Meetups/) | AU/VIC | Bi-Monthly | Luminary offices |
 | [Melbourne Dynamics 365 User Group](https://www.d365ug.com/communities/community-home?CommunityKey=6beb5933-0b8f-4ebe-b3d9-132a87182f92) | AU/VIC | Monthly | Microsoft |
 | [Melbourne .NET User Group](https://www.meetup.com/Melbourne-NET-User-Group/) | AU/VIC | 2nd Wednesday of every month | [SSW Chapel](https://sswchapel.com.au/melbourne/) |
+| [Women in Microsoft Business Applications Melbourne](https://www.meetup.com/Microsoft-Womens-Biz-Apps-Melbourne/)| AU/VIC/Online| Every 2 months| Online|
 | [Perth Azure User Group](https://www.meetup.com/en-AU/perthazug/) | AU/WA | 2nd Tuesday for IT Pro, 3rd Wednesday for Dev | Microsoft |
 | [Perth Databricks Community Meetup](https://www.meetup.com/en-AU/Perth-Databricks-Meetup/) | AU/WA | Every 2 months | Microsoft |
 | [Perth Microsoft Data and Analytics User Group](https://www.meetup.com/en-AU/Perth-Microsoft-Data-And-Analytics-User-Group/) | AU/WA | Intermittent | Microsoft |
@@ -60,5 +63,6 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Auckland Microsoft 365 User Group](https://www.meetup.com/Auckland-Microsoft-365-User-Group/) | NZ/AKL | Monthly | Microsoft House (Level 5/22 Viaduct Harbour Ave, Auckland, 1010) |
 | [Auckland .NET User Group](https://www.meetup.com/AKL-NET/) | NZ/AKL | Intermittent | Various | 
 | [Auckland North Shore .NET User Group](https://www.meetup.com/North-Shore-NET-User-Group/) | NZ/AKL | 4th Thursday of every month | Massey University, Albany |
+| [Women in Microsoft Business Applications Melbourne](https://www.meetup.com/Women-in-Business-Applications-NZ-Meetup-Group/)| NZ | Every 2 months| Online|
 | [Christchurch Office 365 User Group](https://www.meetup.com/CHCO365/) | NZ/CHC | Monthly |Ngai Tahu |
 | [Christchurch SQL and Data Management User Group](https://www.meetup.com/SQL-SERVER-User-Group-Christchurch-New-Zealand) | NZ/CHC | Monthly | Ara Campus |
